@@ -1,2 +1,3 @@
 theme: jekyll-theme-minimal
-logo: ./img/splash.jpg
+logo: /img/splash.jpg
+title: Popasquat
