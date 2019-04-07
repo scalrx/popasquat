@@ -2,8 +2,6 @@
 
 ### About
 
-![Image](./img/splash.jpg)
-
 Popasquat is an Android application that allows users to view surrounding locations and select a restroom based on ratings.
 
 Upon launch of the application, the user is greeted with a map where they can find markers on a map where ratings for a bathroom have been placed.
